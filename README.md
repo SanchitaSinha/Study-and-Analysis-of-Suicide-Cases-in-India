@@ -14,7 +14,12 @@ Analysis of the data set to draw useful results like demographics of suicides, s
 # Content #
 Time Period: 2001-2012
 Granularity: Yearly Location: States and U.T's of India
-Parameters: a) Suicide causes b) Education status c) By means adopted d) Professional profile e) Social status
+Parameters: 
+a) Suicide causes 
+b) Education status 
+c) Means adopted 
+d) Professional profile 
+e) Marital status
 
 
 
